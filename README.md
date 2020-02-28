@@ -1,0 +1,1 @@
+# eslint-config-vue-typescript-prettier-airbnb
